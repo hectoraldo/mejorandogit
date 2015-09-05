@@ -1,0 +1,23 @@
+commit ee064ac40f978c6f8f0787e34451c2d46943618b
+Author: Hector Aldo <hector.aldo.guzman@gmail.com>
+Date:   Mon Aug 31 22:31:05 2015 -0700
+
+    Agregue redes sociales
+
+commit 9a95d093e4f5faa7775f22409df7e94cd97fa142
+Author: Hector Aldo <hector.aldo.guzman@gmail.com>
+Date:   Mon Aug 31 22:27:30 2015 -0700
+
+    Perfil Web escrito
+
+commit 4de29cdb8a450b5a49cd69faad2fa52b65fb2858
+Author: Hector Aldo <hector.aldo.guzman@gmail.com>
+Date:   Mon Aug 31 22:23:18 2015 -0700
+
+    subi foto de perfil y mi nombre
+
+commit 3771097be66462de7bbb36fdc5b0e3a31742a34f
+Author: Hector Aldo <hector.aldo.guzman@gmail.com>
+Date:   Mon Aug 31 22:15:43 2015 -0700
+
+    estos son los archivos base de mi portafolio
